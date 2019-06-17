@@ -6,4 +6,7 @@ Today is 13/6/2019.
 It's a raining day.
 
 It's still raining afternoon.
+
 Creating a new branch is fast AND simple...
+
+New line from github.
