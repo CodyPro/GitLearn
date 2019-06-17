@@ -6,8 +6,4 @@ Today is 13/6/2019.
 It's a raining day.
 
 It's still raining afternoon.
-<<<<<<< HEAD
-Creating a new branch is fast AND simple.
-=======
-Creating a new branch is fast AND simple.
->>>>>>> feature1
+Creating a new branch is fast AND simple...
