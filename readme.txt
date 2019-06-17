@@ -7,3 +7,5 @@ It's a raining day.
 
 It's still raining afternoon.
 Create a new branch is so fast.
+
+Creating a new branch is fast and simple.
