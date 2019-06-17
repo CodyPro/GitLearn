@@ -6,4 +6,4 @@ Today is 13/6/2019.
 It's a raining day.
 
 It's still raining afternoon.
-Create a new branch is so fast.
+Create a new branch is so fast and simple.
